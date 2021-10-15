@@ -19,12 +19,13 @@ module.exports = class BinarySearchTree {
 
       {
           this.root = null;
+          
       }
 
 
 
   root(){
-    return this.root
+    return this.root;
   }
   
 
